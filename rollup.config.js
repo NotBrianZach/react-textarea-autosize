@@ -51,7 +51,6 @@ const createConfig = ({
           pure_getters: true,
           unsafe: true,
           unsafe_comps: true,
-          warnings: false,
         },
       })
     ].filter(Boolean),
